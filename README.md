@@ -15,6 +15,15 @@ A project on classifying heart sound signals into five categories using Continuo
 - **2-D CNN Model**: Efficiently extracts features and classifies heart sound signals.
 - **Visualization**: DL visualization techniques enhance the interpretability of the classification model, aiding in clinical translation.
 
+## Verison Requirements
+- **Tensorflow**
+- **Numpy** == 1.26.4
+- **Matplotlib** == 3.8.3
+- **Scikit-learn** == 1.4.1.post1
+- **Seaborn** == 0.13.2
+- **Scipy** == 1.12.0
+- **Pywavelets** == 1.5.0
+
 ## Conclusion
 This classification system demonstrates high accuracy and interpretability, making it a promising tool for the clinical detection of VHD from PCG signals.
 
